@@ -1,4 +1,5 @@
 This is simple and quick signal module allows you to create your own events!
+Inspired by https://github.com/RBLXUtils/FastSignal but replaced in Lua
 
 --CONSTRUCTOR--
 signal.new() - creates a Signal object.
